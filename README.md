@@ -3,7 +3,7 @@
 ![Humidity Sensor](https://live.staticflickr.com/65535/47691863052_5396ef24e6_k.jpg)
 ![Humidity Sensor](https://live.staticflickr.com/65535/32801180607_e4eb735d66_k.jpg)
 
-This sensor can be used to measure Humidity and Temperature (in degrees Celcius).
+This sensor is used to accurately measure Humidity and Temperature (in degrees Celcius).
 
 ## Contents
 
