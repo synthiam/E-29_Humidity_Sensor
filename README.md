@@ -3,7 +3,7 @@
 ![Humidity Sensor](https://live.staticflickr.com/65535/47691863052_5396ef24e6_k.jpg)
 ![Humidity Sensor](https://live.staticflickr.com/65535/32801180607_e4eb735d66_k.jpg)
 
-This sensor is used to accurately measure Humidity and Temperature (in degrees Celcius).
+This sensor is used to measure Realtive Humidity (in percent) and Temperature (in degrees Celcius) with high accuracy. A unique feature of this sensor is that it takes the digital readout from the HDC1080 and converts it to analog so that it can easily be read by a variety of microcontroller boards. It also has an on-board select button, along with RGB LED mode indicator, to allow the output reading for either Humidity or Temperature to be selected.
 
 ## Contents
 
@@ -15,7 +15,7 @@ This sensor is used to accurately measure Humidity and Temperature (in degrees C
 
 ## License
 
-For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else party on!
+For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else, party on!
 
 Please see LICENSE.md for license details.
 
