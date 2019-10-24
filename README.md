@@ -17,7 +17,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - PIC programming port
 - 3.3V voltage regualtor on-board
 - Voltage requirement: 3.2-16V (3.3V typical)
-- Current draw: 415mA
+- Current draw: 0.43mA
 - Dimensions: 27.3(W) x 39.4(L) x 7.5(H) (mm)
 - Weight: 3g
 
