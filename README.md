@@ -23,7 +23,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 
 **Major components:** 
 - PIC16F1704-I/ST PIC Microcontroller (custom firmware provided)
-- HDC1080 Digital Humdity Sensor
+- HDC1080 Digital Humidity Sensor
 - SPX3819M5-L-3-3/TR 3.3V Regulator
 
 **Manufacturing notes:** 
